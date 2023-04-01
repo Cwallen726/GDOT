@@ -12,7 +12,7 @@
 %   M - desired rows when compressed
 %   N - desired columns when compressed
 %   L - desired greylevel range when compressed
-function p = pa1(s, M, N, L)
+function p = NNR(s, M, N, L)
 
 %   Input image
 p = s;
